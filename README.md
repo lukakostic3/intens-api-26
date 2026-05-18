@@ -17,3 +17,4 @@ https://docs.github.com/en/actions/automating-builds-and-tests/building-and-test
 2. Eclipse / IntelliJ / Alat po izboru
 3. Docker https://www.docker.com/products/docker-desktop
 test
+test
